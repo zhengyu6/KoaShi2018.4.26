@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KoaShi2018.4.26.iml" filepath="$PROJECT_DIR$/KoaShi2018.4.26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appc/appc.iml" filepath="$PROJECT_DIR$/appc/appc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitde/retrofitde.iml" filepath="$PROJECT_DIR$/retrofitde/retrofitde.iml" />
+    </modules>
+  </component>
+</project>
